@@ -18,4 +18,4 @@ Comandos empleados:
                   comando 1: rotate right fast
                   comando 2: rotate right slow
                   ...
-El video demostrativo puede encontrarse en el siguiente [Enlace - video](https://www.youtube.com).
+El video demostrativo puede encontrarse en el siguiente [Enlace - video](https://youtu.be/wbgd0YMNea8).
