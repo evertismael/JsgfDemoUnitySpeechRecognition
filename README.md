@@ -9,7 +9,7 @@ Además, se muestra como emplear diferentes archivos gramaticales en diferentes 
 
 Comandos empleados:
 
-      KeyPhrase2: "movement"
+      KeyPhrase1: "movement"
                   comando 1: move up one meters
                   comando 2: move down three meters
                   comando 3: move up four meters
